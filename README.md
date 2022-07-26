@@ -11,7 +11,7 @@
 <meta property="og:title" content="Didi xx Amanda">
 <meta property="og:description" content="Welcome to my resume">
 <meta property="og:image" content="https://s1.favim.com/orig/151117/adorable-cute-gif-kawaii-Favim.com-3587501.gif">
-<meta property="og:site_name" content="sincerely didi" />
+<meta property="og:site_name" content="didi" />
     <script src="rokiah.js"></script>
 
     <!-- font awesome cdn link  -->
