@@ -1,3 +1,9 @@
+<?php
+header(location:"https://azmiproductions.com/");
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
